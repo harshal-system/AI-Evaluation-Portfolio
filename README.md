@@ -52,7 +52,54 @@ Every evaluation follows the same workflow:
 5. Score quality.
 6. Suggest improvements.
 7. Produce a final recommendation.
+## AI Evaluation Workflow
 
+```text
+                +----------------------+
+                |   User Prompt        |
+                +----------+-----------+
+                           |
+                           v
+                +----------------------+
+                |  AI Generated Answer |
+                +----------+-----------+
+                           |
+                           v
+                +----------------------+
+                | Fact Verification    |
+                +----------+-----------+
+                           |
+                           v
+                +----------------------+
+                | Logical Reasoning    |
+                +----------+-----------+
+                           |
+                           v
+                +----------------------+
+                | Quality Scoring      |
+                +----------+-----------+
+                           |
+                           v
+                +----------------------+
+                | Suggested Improvement|
+                +----------+-----------+
+                           |
+                           v
+                +----------------------+
+                | Final Recommendation |
+                +----------------------+
+```
+
+### Evaluation Criteria
+
+- ✅ Accuracy
+- ✅ Completeness
+- ✅ Logical Reasoning
+- ✅ Clarity
+- ✅ Instruction Following
+- ✅ Safety
+- ✅ Writing Quality
+- ✅ Overall Recommendation
 ---
 
 ## Goal
