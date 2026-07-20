@@ -1,154 +1,60 @@
 # AI Evaluation Portfolio
 
-> A professional portfolio demonstrating structured evaluation of AI-generated responses using analytical reasoning, scientific validation, technical review, and structured quality assessment.
+Professional portfolio demonstrating structured evaluation of Large Language Model (LLM) responses using analytical reasoning, technical review, scientific validation, and quality assessment.
 
 ---
 
-## About This Repository
+## Repository Highlights
 
-This repository demonstrates my ability to evaluate Large Language Model (LLM) responses using a systematic framework focused on accuracy, completeness, logical reasoning, clarity, technical correctness, and safety.
-
-The portfolio contains practical evaluation case studies across:
-
-- Chemical Engineering
-- Manufacturing
-- Supply Chain
-- Technical Writing
-- Logical Reasoning
-- AI Safety
+- AI Response Evaluation
 - Hallucination Detection
-- Prompt Improvement
-
----
-
-## Purpose
-
-This project showcases how AI-generated responses can be reviewed using a repeatable evaluation methodology similar to those used by AI evaluation teams.
-
-The goal is to demonstrate:
-
-- Critical Thinking
-- Scientific Reasoning
-- Fact Verification
-- Technical Communication
-- Structured Decision Making
-- Quality Evaluation
-
----
-
-## Skills Demonstrated
-
-### Artificial Intelligence
-
-- AI Evaluation
-- Response Assessment
 - Prompt Analysis
-- Hallucination Detection
-- AI Quality Review
-
-### Engineering
-
-- Chemical Engineering
-- Manufacturing Processes
-- Root Cause Analysis
-- Process Improvement
-
-### Supply Chain
-
-- Inventory Management
-- Demand Planning
-- Procurement
-- Logistics
-
-### Technical
-
-- Technical Documentation
-- Report Writing
-- SOP Review
-- Process Documentation
+- Technical Review
+- Supply Chain Evaluation
+- Manufacturing Evaluation
+- Chemical Engineering Evaluation
+- Structured Scoring Framework
 
 ---
 
-# Evaluation Workflow
+## Repository Structure
 
-```
-Prompt
-      ↓
-AI Response
-      ↓
-Technical Review
-      ↓
-Fact Verification
-      ↓
-Logical Analysis
-      ↓
-Quality Scoring
-      ↓
-Improved Response
-      ↓
-Final Recommendation
-```
-
----
-
-# Repository Structure
-
-```
 AI-Evaluation-Portfolio
 
-docs/
-case-studies/
-templates/
-datasets/
-images/
-```
+├── docs
+│   ├── Evaluation Framework
+│   ├── Scoring Rubric
+│   ├── AI Evaluation Workflow
+│   ├── Best Practices
+│   └── Common AI Errors
+│
+├── templates
+│   └── Evaluation Template
+│
+├── case-studies
+│   ├── Chemistry
+│   ├── Manufacturing
+│   ├── Supply Chain
+│   └── AI Safety
+│
+└── images
 
 ---
 
-# Case Studies
+## Evaluation Methodology
 
-This repository will contain structured evaluations covering:
+Every evaluation follows the same workflow:
 
-- Chemistry
-- Manufacturing
-- Supply Chain
-- Technical Writing
-- AI Safety
-- Logical Reasoning
-- Hallucination Detection
-
-Each case study follows the same methodology to ensure consistency and objectivity.
+1. Understand the user prompt.
+2. Review the AI response.
+3. Verify factual accuracy.
+4. Evaluate reasoning.
+5. Score quality.
+6. Suggest improvements.
+7. Produce a final recommendation.
 
 ---
 
-# Current Status
+## Goal
 
-🟢 Repository Initialized
-
-🟢 Evaluation Framework (In Progress)
-
-🟢 Scoring Rubric (Upcoming)
-
-🟢 AI Evaluation Workflow (Upcoming)
-
-🟢 Case Studies (Upcoming)
-
----
-
-# Roadmap
-
-- Evaluation Framework
-- Scoring Rubric
-- AI Evaluation Workflow
-- 25 Evaluation Case Studies
-- Prompt Improvement Examples
-- Hallucination Detection Examples
-- Comparative AI Evaluations
-
----
-
-## Author
-
-**Harshal Shahare**
-
-Chemical Engineer | Manufacturing & Supply Chain Professional | AI Evaluation Portfolio
+This repository demonstrates practical AI evaluation skills through structured case studies across multiple technical domains.
